@@ -1,0 +1,199 @@
+{
+  "main": {
+    "id": "5dab91ab19a6c63e",
+    "type": "split",
+    "children": [
+      {
+        "id": "6b1e325d7d9399d1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c252de6d8a1ce1ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/moc_template.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5b501bfd85238e47",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Zetteus/Tarefas.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6d538c4c50b15f22",
+    "type": "split",
+    "children": [
+      {
+        "id": "64b12e667a20b72b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fc5665794113067b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1227dea09a4bddc9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f401f83c92092573",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "684a1316106fb725",
+    "type": "split",
+    "children": [
+      {
+        "id": "ff207013366a6e34",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d3f762d4cea7a26f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Zetteus/Tarefas.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "81440d7857c8dea6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Zetteus/Tarefas.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9269c05543c362e3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "aee447fb122fbddd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Zetteus/Tarefas.md"
+              }
+            }
+          },
+          {
+            "id": "9f51dad8c2551585",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "160b7f2dc95c174e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c8deccdf9b8b75a3",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 245.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "fc5665794113067b",
+  "lastOpenFiles": [
+    "Zetteus/Terefas.md",
+    "Zetteus/Tarefas.md",
+    "Templates/moc_template.md",
+    "Templates/note_template.md",
+    "Templates/daily_template.md",
+    "Excalidraw/Drawing 2024-03-06 20.35.15.excalidraw.md",
+    "Arquivos",
+    "Diario",
+    "Zetteus",
+    "Templates",
+    "Excalidraw/Pasted Image 20240306203531_012.png",
+    "Welcome.md",
+    "Excalidraw"
+  ]
+}
